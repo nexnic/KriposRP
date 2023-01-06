@@ -2,7 +2,7 @@
 
 ![image](https://github.com/nexnic/KriposRP/blob/main/assest/images/logo.png)
 
-A e-commerce site for snug selling Baby carriers to woman at target group of 20 - 30
+A Case file system for Kripos RP 
 
 ## Description
 
