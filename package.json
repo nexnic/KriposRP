@@ -1,0 +1,25 @@
+{
+  "name": "kriposrp",
+  "version": "1.0.0",
+  "description": "This landing page of KriposRP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexnic/KriposRP.git"
+  },
+  "author": "Kent Erik Hole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexnic/KriposRP/issues"
+  },
+  "homepage": "https://github.com/nexnic/KriposRP#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}

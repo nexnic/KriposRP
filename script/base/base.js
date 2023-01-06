@@ -2,3 +2,7 @@
     'use strict';
 
 // API 
+
+
+// Starting conditions
+

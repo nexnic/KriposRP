@@ -25,12 +25,13 @@ You can list a the tech stack that you've used over here
 - [Micro-FlowChart](https://miro.com/);
 - [hotjar](https://www.hotjar.com/)
 - [WordPress-API](https://woocommerce.com/document/woocommerce-rest-api/);
+- [postman](https://www.postman.com/);
 
 ## Getting Started
 
 ### Design 
 - [Style-title](https://xd.adobe.com/view/b7e864f9-cd22-4fb3-bc02-a17246c3ee3a-e2bb/);
-- [Wireframe-Low](https://xd.adobe.com/view/ea647f4c-f12d-496a-8527-a027fd1ce6ef-bf37/);
+- [Wireframe-Low](https://xd.adobe.com/view/1d2fc3bc-d370-41a3-a5e3-2ff420ff2d0e-487c/);
 
 ### Installing
 
