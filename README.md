@@ -6,7 +6,7 @@ A e-commerce site for snug selling Baby carriers to woman at target group of 20 
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+This will be the case system for kripos RP . this make it easy for kripos RP agentens to follow the case and to see what case need to be follow up 
 
 You can add some bullet points if you'd like to:
 
@@ -24,13 +24,13 @@ You can list a the tech stack that you've used over here
 - [Adobe-XD](https://helpx.adobe.com/xd/get-started.html);
 - [Micro-FlowChart](https://miro.com/);
 - [hotjar](https://www.hotjar.com/)
-- [Woocommerce-api](https://woocommerce.com/document/woocommerce-rest-api/);
+- [WordPress-API](https://woocommerce.com/document/woocommerce-rest-api/);
 
 ## Getting Started
 
 ### Design 
-- [User-Persona](https://xd.adobe.com/view/66a33f77-09ad-4484-a2b9-f85d21050b4d-33f0/);
-- [Prototype]()
+- [Style-title](https://xd.adobe.com/view/b7e864f9-cd22-4fb3-bc02-a17246c3ee3a-e2bb/);
+- [Wireframe-Low](https://xd.adobe.com/view/ea647f4c-f12d-496a-8527-a027fd1ce6ef-bf37/);
 
 ### Installing
 
@@ -39,13 +39,13 @@ This is where you list how to get the project started. It typically just include
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:nexnic/Snug.git
+git clone git@github.com:nexnic/KriposRP.git
 ```
 
 2. Install the dependencies:
 
 ```
-npm install
+npm install node-sass --save-dev
 ```
 
 ### Running
@@ -55,7 +55,7 @@ Here is where you detail how to run the app. It typically involves the commands 
 To run the app, run the following commands:
 
 ```bash
-npm run start
+    npm update 
 ```
 
 ## Contributing
